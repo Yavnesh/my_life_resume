@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "55992310814",
+    "project_id": "myliferesume-d3270",
+    "storage_bucket": "myliferesume-d3270.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55992310814:android:a45d6f8cffb4b8b7dc220f",
+        "android_client_info": {
+          "package_name": "com.example.my_life_resume"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55992310814-inhdqitvenlj1mvmhlqm54dmmro238c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA-E-uCvuZMMdOWeohd-LE5AhyVzqYbsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55992310814-inhdqitvenlj1mvmhlqm54dmmro238c4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
